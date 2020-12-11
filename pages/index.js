@@ -63,7 +63,7 @@ export default function Home() {
       <div className="banner__central">
         <img src=" images/borda2.png" alt=""></img>
       </div>
-      <div className={styles.background-meio}>
+      <div className={styles.background_meio}>
         <div className="container">
           <div className="row">
             <div className="col-md-12">
