@@ -1,0 +1,119 @@
+.header_topo{
+  background-color: #3da89e;
+  width: 100%;
+}
+.header_topo__ul{
+  list-style: none;
+  display: flex;
+  justify-content: flex-end;
+  margin: 0;
+}
+.header_topo__ul li{
+  padding: 7px 20px;
+  color: #fff;
+  border-radius: 5px;
+  background-color: #41b3a7;
+  margin: 5px 5px;
+  font-size: 13px;
+}
+.header_topo__ul li a{
+  text-decoration: none;
+  color: #ffff;
+}
+.header__buttonSF{
+  border: none;
+  padding: 10px 30px;
+  background-color: #f98700;
+  border-radius: 50px;
+  margin-top: 10px;
+  color: #fff;
+}
+.header__buttonAC{
+  border: none;
+  padding: 10px 30px;
+  background-color: #3da89e;
+  border-radius: 50px;
+  margin-top: 10px;
+  color: #fff;
+}
+.banner__central{
+  display: block;
+}
+.banner__central img{
+  width: 100%;
+}
+.background-meio{
+  width: 100%;
+  background-color: #17b4a9;
+}
+.home__menu{
+  background: #3da89e;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  position: relative;
+  top: -22px;
+  color: #fff;
+  padding: 20px 0;
+  margin-right: 10%;
+  margin-left: 10%;
+}
+.home__menu b {
+  color: #ffff;
+}
+.home__icone{
+  display: flex;
+  max-width: 100%;
+  justify-content: center;
+  margin-top: 40px;
+}
+.oftalmologista{
+  display: flex;
+  text-align: center;
+  color: #ffff;
+  justify-content: center;
+}
+.background_pos_meio{
+  width: 100%;
+  background-color: #ffff;
+  margin-bottom: 160px;
+}
+.borda3{
+  margin-bottom: 25px;
+  margin-top:50px;
+}
+.cont2{
+  font-size: 20px;
+  color: #a9a6a6;
+}
+.intercalado{
+  background-color: #17b4a9;
+  color: #ffff;
+  margin-top:100px;
+}
+.convenios{
+  background-color: #FFFFFF;
+  margin-bottom: 150px;
+}
+.text_convenios{
+  font-size: 20px;
+}
+.convenios__buttonAC{
+  border: none;
+  padding: 20px 75px;
+  background-color: #3da89e;
+  border-radius: 100px;
+  margin-top: 10px;
+  color: #fff;
+  font-size:23px;
+}
+.post{
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  padding: 40px 68px;
+  font-size: 20px;
+}
+.footer{
+  background-color: #f0f0f0;
+}
